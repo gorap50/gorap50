@@ -1,12 +1,15 @@
 <!-- Header -->
 <h1 align="center"><strong>Gorap Kumar</strong> 👋</h1>
+
+
+
 <h3 align="center">AI/ML ✦ Data Science ✦ Full‑Stack Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1500&center=true&vCenter=true&width=700&lines=Turning+Data+Into+Actionable+Insights...;Building+Intelligent+Applications...;Driving+Innovation+With+Code..." alt="Animated intro" />
 </p>
 
----
+<hr style="border: 1px solid #4A90E2; margin: 30px 0;" />
 
 ## 🎯 About Me
 
@@ -15,7 +18,7 @@
 - Specializing in AI solutions for **healthcare**, **agriculture**, and **education**  
 - Combining skills in **Machine Learning**, **Full‑Stack Development**, and **Data Analysis**  
 
----
+<hr style="border: 1px solid #4A90E2; margin: 30px 0;" />
 
 ## 🧠 Core Competencies
 
@@ -27,7 +30,7 @@
 | **Web & Mobile** | React · Firebase · Node.js · Django · Flutter · TailwindCSS |
 | **Dev & Cloud Tools** | AWS · GCP · Docker · Git · GitHub Actions · Linux · Postman |
 
----
+<hr style="border: 1px solid #4A90E2; margin: 30px 0;" />
 
 ## 🚀 Highlighted Projects
 
@@ -68,7 +71,7 @@
 
 > 🔗 Discover more in my [Repositories Tab](https://github.com/gorap50?tab=repositories)
 
----
+<hr style="border: 1px solid #4A90E2; margin: 30px 0;" />
 
 ## 📜 Certifications & Learning
 
@@ -77,19 +80,15 @@
 - **DataCamp** — R Programming Path · Intermediate SQL  
 - **Kaggle** — Data Visualization Certification
 
----
+## 🎯 Learning Roadmap & Goals
 
-## 📊 GitHub Activity & Stats
+- Master advanced Deep Learning architectures (Transformers, GANs)  
+- Explore Reinforcement Learning and NLP applications  
+- Contribute to open-source AI/ML projects  
+- Deploy scalable ML models on cloud platforms (AWS, GCP)  
+- Build a personal AI portfolio website  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gorap50&theme=dracula&show_icons=true&include_all_commits=false" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gorap50&theme=dracula&hide_border=false" height="150"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gorap50&layout=compact&theme=dracula&hide=scss,css" height="120"/>
-</p>
-
----
+<hr style="border: 1px solid #4A90E2; margin: 30px 0;" />
 
 ## 🌐 Connect with Me
 
@@ -98,11 +97,13 @@
   <a href="mailto:gorapkumar11@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
----
+<hr style="border: 1px solid #4A90E2; margin: 30px 0;" />
 
 ## 🌟 Profile Views
 
-<p align="center"><img src="https://visitcount.itsvg.in/api?id=gorap50&label=Profile Views&icon=0&color=6&pretty=true" alt="Profile view count"></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gorap50&style=flat-square&color=blue" alt="Profile views" />
+</p>
 
 > **“Turning data into insight. Code into impact.”**  
 > *Open to collaborations, research, and AI projects worldwide.*
