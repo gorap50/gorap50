@@ -1,109 +1,116 @@
-<!-- Header -->
-<h1 align="center"><strong>Gorap Kumar</strong> 👋</h1>
+<div align="center">
 
+# Gorap Kumar
 
+### M.Sc. Artificial Intelligence · BTU Cottbus-Senftenberg
 
-<h3 align="center">AI/ML ✦ Data Science ✦ Full‑Stack Developer</h3>
+**Data Engineering · Computer Vision · ML Pipelines**
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1500&center=true&vCenter=true&width=700&lines=Turning+Data+Into+Actionable+Insights...;Building+Intelligent+Applications...;Driving+Innovation+With+Code..." alt="Animated intro" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gorap-kumar-da)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gorapkumar11@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gorap50)
 
-<hr style="border: 1px solid #4A90E2; margin: 30px 0;" />
+</div>
 
-## 🎯 About Me
+---
 
-- **Master’s in AI student** at BTU Cottbus‑Senftenberg, Germany (2024–Present)  
-- Former **Team Lead & Data Annotation Engineer** at DataVision Pvt Ltd  
-- Specializing in AI solutions for **healthcare**, **agriculture**, and **education**  
-- Combining skills in **Machine Learning**, **Full‑Stack Development**, and **Data Analysis**  
+## About
 
-<hr style="border: 1px solid #4A90E2; margin: 30px 0;" />
+M.Sc. AI student at BTU Cottbus-Senftenberg with **1 year of industry experience** in data engineering and ML pipeline development. At DataVision Pvt Ltd, I led a team of 10+ engineers, engineered validation routines across **50,000+ training records** achieving **99% data integrity**, and built Python ETL pipelines that increased processing throughput by **15%**.
 
-## 🧠 Core Competencies
+Currently building end-to-end deep learning systems for medical imaging and exploring LLM agent tooling.
 
-| Category | Tools & Technologies |
+📍 Cottbus, Germany · Available for internship / Werkstudent · Open to relocation
+
+---
+
+## Tech Stack
+
+**AI / ML**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+**Data Engineering**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+**Infrastructure**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+---
+
+## Featured Projects
+
+### 🔬 Glaucoma Detection Pipeline · 2026
+End-to-end automated deep learning inference pipeline — retinal image input → metric dashboard output.  
+`Python` `TensorFlow` `OpenCV`
+
+---
+
+### 🧠 Brain Tumor MRI Classification · 2025
+ResNet-based deep learning architecture for automated multi-class tumor classification on MRI scans.  
+`Python` `TensorFlow` `CNN` `ResNet`
+
+---
+
+### 📦 Spatial Computer Vision Microservices · 2025
+Containerized real-time spatial vision services — **20% reduction in processing latency**.  
+Reproducible Bash deployment scripts, automated CI/CD pipeline on GitHub.  
+`Python` `Docker` `Linux` `Git`
+
+---
+
+### 🌿 Weed Detection Robot · Edge AI · 2023
+Real-time CV models deployed on edge hardware for autonomous agricultural weed detection — **20% reduction in manual labor**.  
+`Python` `OpenCV` `IoT`
+
+---
+
+### 🏥 Maternal Health Risk Prediction · 2022
+Predictive model for prenatal risk assessment — **85% accuracy**. Automated clinical data pipelines saving ~20 hours/week.  
+`Python` `Scikit-learn` `Random Forest`
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![Gorap's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gorap50&show_icons=true&theme=default&hide_border=true&count_private=true)
+&nbsp;&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gorap50&layout=compact&theme=default&hide_border=true)
+
+</div>
+
+---
+
+## Certifications
+
+| Provider | Certification |
 |---|---|
-| **Programming** | Python · JavaScript · Java · C++ · C# · Kotlin |
-| **AI / ML / Data Science** | TensorFlow · PyTorch · Scikit-Learn · Keras · OpenCV · Pandas · NumPy · Seaborn |
-| **Data Visualization & BI** | Power BI · Tableau · Jupyter · Pandas Profiling |
-| **Web & Mobile** | React · Firebase · Node.js · Django · Flutter · TailwindCSS |
-| **Dev & Cloud Tools** | AWS · GCP · Docker · Git · GitHub Actions · Linux · Postman |
+| DeepLearning.AI | Machine Learning Specialization |
+| IBM | Python for Data Science & AI Development |
+| DataCamp | SQL Database Fundamentals · R Programming |
+| Kaggle | Data Visualization |
 
-<hr style="border: 1px solid #4A90E2; margin: 30px 0;" />
+---
 
-## 🚀 Highlighted Projects
+<div align="center">
 
-<details><summary><strong>🧠 Brain Tumor Detection (Ongoing)</strong></summary>
+*Seeking a mandatory internship (Pflichtpraktikum) or Werkstudent position in AI / Data Science / Data Engineering*
 
-- Built a CNN-based pipeline to classify and segment tumors in MRI scans  
-- Achieved high accuracy and tested on public MRI datasets  
-- Technologies: TensorFlow, OpenCV, Python – with clear documentation, visual outputs, and breakdown of modeling steps  
-</details>
+[![Profile Views](https://komarev.com/ghpvc/?username=gorap50&style=flat-square&color=0A66C2)](https://github.com/gorap50)
 
-<details><summary><strong>💡 Maternal Health Risk Prediction</strong></summary>
-
-- Designed a predictive model using real prenatal data to flag high‑risk pregnancies  
-- Employed Random Forest, Logistic Regression; used feature selection and model interpretability tools  
-- Achieved ~85% accuracy using Python, Pandas, Scikit‑Learn, Seaborn  
-</details>
-
-<details><summary><strong>🌿 Weed Detection Robot</strong></summary>
-
-- Developed a vision-based robot detection pipeline for precision agriculture  
-- Integrated real-time object detection using OpenCV + lightweight ML models  
-- Flowcharts, code, and example video previews available  
-</details>
-
-<details><summary><strong>📱 Student Services App</strong></summary>
-
-- Full-stack solution: Android app in Kotlin + React.js portal for student scheduling, notifications, etc.  
-- Backend using Firebase (Auth and Firestore) for secure, scalable data handling  
-- UI design mockups, deployed demo, and setup walkthrough included  
-</details>
-
-<details><summary><strong>🍷 Wine Quality Prediction</strong></summary>
-
-- Regression-based model to score wine quality from physicochemical features  
-- Performed thorough EDA, model comparisons, error analysis, and feature engineering  
-- Visualized results with Seaborn/Matplotlib; dataset from UCI Machine Learning Repository  
-</details>
-
-> 🔗 Discover more in my [Repositories Tab](https://github.com/gorap50?tab=repositories)
-
-<hr style="border: 1px solid #4A90E2; margin: 30px 0;" />
-
-## 📜 Certifications & Learning
-
-- **DeepLearning.AI** — Machine Learning Specialization  
-- **IBM** — Python for Data Science & AI Development  
-- **DataCamp** — R Programming Path · Intermediate SQL  
-- **Kaggle** — Data Visualization Certification
-
-## 🎯 Learning Roadmap & Goals
-
-- Master advanced Deep Learning architectures (Transformers, GANs)  
-- Explore Reinforcement Learning and NLP applications  
-- Contribute to open-source AI/ML projects  
-- Deploy scalable ML models on cloud platforms (AWS, GCP)  
-- Build a personal AI portfolio website  
-
-<hr style="border: 1px solid #4A90E2; margin: 30px 0;" />
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/gorap-kumar-84b175212"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:gorapkumar11@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
-<hr style="border: 1px solid #4A90E2; margin: 30px 0;" />
-
-## 🌟 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gorap50&style=flat-square&color=blue" alt="Profile views" />
-</p>
-
-> **“Turning data into insight. Code into impact.”**  
-> *Open to collaborations, research, and AI projects worldwide.*
+</div>
